@@ -2,7 +2,7 @@
 
 # Final Project for CIS 35
 # Yarrow Sifry: yarrow@sifry.com
-#
+# Gad Rosen: gados2000@gmail.com
 
 # Basic Structure: Puzzle game with simple narrative. The player must navigate paths of floating (moving?) blocks by moving sideways and manipulating gravity. New powers and features added every 10 levels or so.
 
