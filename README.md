@@ -13,7 +13,8 @@
 # Gravity wells/portals
 # Monsters to evade
 # The power to move blocks
-#
+# Make use of phone's gyroscope to change orientation of gravity.
+
 # Visual Design:
 # You: figure made of lines or simple shapes
 # Alien: polyhedron of some sort (dodecahedron?)
