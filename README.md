@@ -21,3 +21,8 @@
 # Monsters: TBD
 # Background: White or gray blocks (3D) on gradient (light top, dark bottom)
 #
+
+# Division of labor:
+# Yarrow: Levels 1-5
+# Gad: Levels 6-10
+# Obtain asset packet with textures.
